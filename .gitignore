@@ -1,0 +1,7 @@
+.vs/
+KioskWebApp/KioskWebApp.Android/bin/
+KioskWebApp/KioskWebApp.Android/obj/
+KioskWebApp/KioskWebApp.iOS/obj/
+KioskWebApp/KioskWebApp.UWP/obj/
+KioskWebApp/KioskWebApp/bin/
+KioskWebApp/KioskWebApp/obj/
